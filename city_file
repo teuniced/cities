@@ -1,7 +1,7 @@
 
 
 
-hello = [{
+hello = {[{
 		'name': 'Atlanta',
 		'local_names': {
 			'kw': 'Atlanta',
@@ -1912,5 +1912,5 @@ hello = [{
 		'country': 'US',
 		'state': 'Georgia'
 	}]
-
+}
 
